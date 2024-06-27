@@ -1,7 +1,7 @@
 ## <center>🧐🧐🧐
 ---------
 ![Hello there gif](https://c.tenor.com/0Akz_GWDQyQAAAAC/tenor.gif)
-> "Correr atrás dos sonhos é arte,
+> "Correr atrás dos sonhos é arte,<br>
 >  Se lesionar faz parte."
 ---------
 ## Techs
